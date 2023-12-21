@@ -201,7 +201,7 @@ Example:
 
 👤 **Hein Si Thu Naing**
 
-- GitHub: [@githubhandle](https://github.com/Harris434)
+- GitHub: [@Harris434](https://github.com/Harris434)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/hein-si-thu-naing-harris-7a810b295/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
