@@ -2,8 +2,8 @@
 
 <!--
 !!! IMPORTANT !!!
-This README is an example of how you could professionally present your codebase. 
-Writing documentation is a crucial part of your work as a professional software developer and cannot be ignored. 
+This README is an example of how you could professionally present your codebase.
+Writing documentation is a crucial part of your work as a professional software developer and cannot be ignored.
 
 You should modify this file to match your project and remove sections that don't apply.
 
@@ -30,7 +30,7 @@ For more information on the importance of a professional README for your reposit
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="https://github.com/microverseinc/readme-template/raw/master/murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="https://github.com/microverseinc/readme-template/blob/master/murple_logo.png?raw=true" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Microverse README Template</b></h3>
@@ -65,28 +65,26 @@ For more information on the importance of a professional README for your reposit
 
 # 📖 [Hello Microverse] <a name="Hello Microverse"></a>
 
-> Describe your project in 1 or 2 sentences.
->Module 1 Day 2 Project.
-
-**[Hello Microverse]** is a...
+**[Hello Microverse]** is a first project in Microverse in which we have a chance to work with linter.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+Tech stack we use is only HTML and CSS.
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="./index.html">HTML</a></li>
+    <li><a href="./style.css">CSS</a></li>
   </ul>
 </details>
 
-<details>
+<!-- <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://expressjs.com/">CSS</a></li>
   </ul>
 </details>
 
@@ -95,13 +93,11 @@ For more information on the importance of a professional README for your reposit
   <ul>
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
-</details>
+</details> -->
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - **[key_feature_1]**
 - **[key_feature_2]**
@@ -113,8 +109,6 @@ For more information on the importance of a professional README for your reposit
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
 - [Live Demo Link](https://google.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -122,8 +116,6 @@ For more information on the importance of a professional README for your reposit
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -143,27 +135,27 @@ Example command:
 
 Clone this repository to your desired folder:
 
-<!--
 Example commands:
 
 ```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  cd module1
+  git clone git@github.com:linuxhaw/HelloMicroverse.git
 ```
---->
+
+-
 
 ### Install
 
 Install this project with:
 
-<!--
 Example command:
 
 ```sh
-  cd my-project
-  gem install
+  cd HelloMicroverse
+  npm install
 ```
---->
+
+-
 
 ### Usage
 
@@ -207,19 +199,10 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+👤 **Hein Si Thu Naing**
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Harris434)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/hein-si-thu-naing-harris-7a810b295/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -241,15 +224,13 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [https://github.com/linuxhaw/HelloMicroverse/issues](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
 
 If you like this project...
 
@@ -259,8 +240,6 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
 I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -268,8 +247,6 @@ I would like to thank...
 <!-- FAQ (optional) -->
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[Question_1]**
 
