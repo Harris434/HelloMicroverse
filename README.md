@@ -210,7 +210,6 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[new_feature_1]**
 - [ ] **[new_feature_2]**
@@ -224,7 +223,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [https://github.com/linuxhaw/HelloMicroverse/issues](../../issues/).
+Feel free to check the [https://github.com/Harris434/HelloMicroverse/issues](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
